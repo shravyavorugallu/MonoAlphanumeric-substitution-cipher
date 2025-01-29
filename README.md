@@ -64,5 +64,5 @@ python decrypt.py ciphertext.txt
 ```
 
 ## Contact
-For any questions, please contact **Shravya Vorugallu (sv2630)**.
+For any questions, please contact **Shravya Vorugallu**.
 
